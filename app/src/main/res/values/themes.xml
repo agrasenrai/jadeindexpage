@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JadeIndexPage" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/jade_primary</item>
+        <item name="colorPrimaryDark">@color/jade_primary_dark</item>
+        <item name="colorAccent">@color/jade_accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">@color/jade_primary</item>
+    </style>
+</resources>
